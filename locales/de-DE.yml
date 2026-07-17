@@ -2005,6 +2005,7 @@ de-DE:
       posted_by_with_datetime: veröffentlicht <time class="timeago" datetime="%{time}">%{time}</time>
       posted_by_with_datetime_and_username: '%{username} veröffentlichte <time class="timeago" datetime="%{time}">%{time}</time>'
       replied_by_with_datetime_and_username: '%{username} antwortete <time class="timeago" datetime="%{time}">%{time}</time>'
+      replied_by:
     discussion_activity: 'Diskussionsverlauf '
     email_notifications:
       email_notifications: E-Mail-Benachrichtigungen

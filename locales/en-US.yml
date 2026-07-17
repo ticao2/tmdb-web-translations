@@ -2003,6 +2003,7 @@ en-US:
       posted_by_with_datetime: posted <time class="timeago" datetime="%{time}">%{time}</time>
       posted_by_with_datetime_and_username: '%{username} posted <time class="timeago" datetime="%{time}">%{time}</time>'
       replied_by_with_datetime_and_username: '%{username} replied <time class="timeago" datetime="%{time}">%{time}</time>'
+      replied_by: "%{username} replied"
     discussion_activity: Discussion Activity
     email_notifications:
       email_notifications: Email Notifications

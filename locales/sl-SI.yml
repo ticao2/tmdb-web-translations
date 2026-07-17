@@ -2001,6 +2001,7 @@ sl-SI:
       posted_by_with_datetime:
       posted_by_with_datetime_and_username:
       replied_by_with_datetime_and_username:
+      replied_by:
     discussion_activity: Dogajanje v razpravi
     email_notifications:
       email_notifications: E-poštna obvestila

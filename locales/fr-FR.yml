@@ -2003,6 +2003,7 @@ fr-FR:
       posted_by_with_datetime:
       posted_by_with_datetime_and_username:
       replied_by_with_datetime_and_username:
+      replied_by:
     discussion_activity: Activité de la conversation
     email_notifications:
       email_notifications: Notifications par courriel

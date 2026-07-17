@@ -1978,6 +1978,7 @@ eu-ES:
       posted_by_with_datetime:
       posted_by_with_datetime_and_username:
       replied_by_with_datetime_and_username:
+      replied_by:
     discussion_activity: Eztabaida Jarduera
     email_notifications:
       email_notifications: Posta Elektroniko Jakinarazpenak

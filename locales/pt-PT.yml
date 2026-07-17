@@ -1987,6 +1987,7 @@ pt-PT:
       posted_by_with_datetime:
       posted_by_with_datetime_and_username:
       replied_by_with_datetime_and_username:
+      replied_by:
     discussion_activity: Actividade nas discussões
     email_notifications:
       email_notifications: Notificações por E-mail
