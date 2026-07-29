@@ -3991,6 +3991,9 @@ el-GR:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Δεν υπάρχουν επιλεγμένες κριτικές για το %{title}. Θα θέλατε να <a href="%{url}">γράψετε μια</a>;
+          public: Δεν υπάρχουν επιλεγμένες κριτικές για το %{title}.
     translations:
       add_biography: Προσθήκη βιογραφίας
       add_homepage: Προσθήκη ιστοσελίδας

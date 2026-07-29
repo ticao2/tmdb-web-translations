@@ -4008,6 +4008,9 @@ de-DE:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Wir haben keine ausgewählte Rezension für %{title}. Willst du <a href="%{url}">eine schreiben</a>?
+          public: Wir haben keine ausgewählte Rezension für %{title}.
     translations:
       add_biography: Biografie hinzufügen
       add_homepage: Webseite hinzufügen

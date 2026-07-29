@@ -4011,6 +4011,9 @@ pt-BR:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Ainda não temos uma resenha em destaque para %{title}. Gostaria de <a href="%{url}">escrever uma</a>?
+          public: Ainda não temos uma resenha em destaque para %{title}.
     translations:
       add_biography: Adicionar biografia
       add_homepage: Adicionar página inicial

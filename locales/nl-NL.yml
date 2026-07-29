@@ -3968,6 +3968,9 @@ nl-NL:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: We hebben geen uitgelichte recensies voor %{title}. Wil je er <a href="%{url}">één schrijven</a>?
+          public: We hebben geen uitgelichte recensies voor %{title}.
     translations:
       add_biography: Biografie toevoegen
       add_homepage: Homepage toevoegen

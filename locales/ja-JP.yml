@@ -3936,6 +3936,9 @@ ja-JP:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: '%{title}の注目のレビューはまだありません。<a href="%{url}">書いてみませんか？</a>'
+          public: "%{title}の注目のレビューはまだありません。"
     translations:
       add_biography:
       add_homepage:

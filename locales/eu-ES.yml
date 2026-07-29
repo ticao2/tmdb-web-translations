@@ -3929,6 +3929,9 @@ eu-ES:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Ez daukagu kritika nabarmendurik %{title} elementuarentzat. Nahi al duzu bat <a href="%{url}">idatzi</a>?
+          public: Ez daukagu kritika nabarmendurik %{title} elementuarentzat.
     translations:
       add_biography:
       add_homepage:

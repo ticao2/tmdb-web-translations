@@ -3959,6 +3959,9 @@ zh-TW:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: 沒有關於%{title}的推薦評論，你有興趣<a href="%{url}">寫一則評論</a>嗎？
+          public: 沒有關於%{title}的推薦評論。
     translations:
       add_biography:
       add_homepage:

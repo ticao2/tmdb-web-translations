@@ -3895,6 +3895,9 @@ es-AR:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in:
+          public:
     translations:
       add_biography: Agregar biografía
       add_homepage:

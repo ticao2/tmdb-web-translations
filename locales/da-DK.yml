@@ -3941,6 +3941,9 @@ da-DK:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Vi har ingen fremhævede anmeldelser af %{title}. Vil du gerne <a href="%{url}">skrive en</a>?
+          public: Vi har ingen fremhævede anmeldelser af %{title}.
     translations:
       add_biography:
       add_homepage:

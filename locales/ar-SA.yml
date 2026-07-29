@@ -4053,6 +4053,9 @@ ar-SA:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: لم نجد اية مراجعات بارزة لـ %{title}. هل تود <a href="%{url}">كتابة مراجعة</a>؟
+          public: لا توجد مراجعات بارزة لـ %{title}.
     translations:
       add_biography:
       add_homepage:

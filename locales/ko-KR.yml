@@ -3928,6 +3928,9 @@ ko-KR:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: '%{title}에 관한 추천 리뷰가 없습니다. <a href="%{url}">리뷰 쓰기</a>'
+          public: "%{title}에 관한 추천 리뷰가 없습니다."
     translations:
       add_biography: 약력 추가
       add_homepage: 홈페이지 추가

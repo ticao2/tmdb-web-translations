@@ -3954,6 +3954,9 @@ pt-PT:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Não temos quaisquer críticas em destaque para "%{title}". Gostarias de <a href="%{url}">escrever uma</a>?
+          public: Não temos quaisquer críticas em destaque para "%{title}".
     translations:
       add_biography:
       add_homepage:

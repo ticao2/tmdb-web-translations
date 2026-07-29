@@ -3935,6 +3935,9 @@ hu-HU:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Nincsenek kiemelt vélemények a(z) %{title} című filmhez. Szeretnél <a href="%{url}">írni egyet</a>?
+          public: Nincsenek kiemelt vélemények a(z) %{title} című filmhez.
     translations:
       add_biography: Életrajz hozzáadása
       add_homepage: Weboldal hozzáadása

@@ -4009,6 +4009,9 @@ en-US:
         their_rating: "(their rating)"
         your_rating: "(your rating)"
         edit_review: Edit Review
+        no_featured_review:
+          logged_in: We don't have any featured reviews for %{title}. Would you like to <a href="%{url}">write one</a>?
+          public: We don't have any featured reviews for %{title}.
     translations:
       add_biography: Add biography
       add_homepage: Add homepage

@@ -3972,6 +3972,9 @@ zh-CN:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: 还没有关于《%{title}》的精选评价呢。想要<a href="%{url}">写一个</a>吗？
+          public: 还没有关于《%{title}》的精选评价呢。
     translations:
       add_biography: 添加生平简介
       add_homepage: 添加主页

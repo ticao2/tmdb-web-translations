@@ -3969,6 +3969,9 @@ sk-SK:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Nemáme žiadne doporučené recenzie pre film %{title}. Chcel by si jednu <a href="%{url}">napísať</a>?
+          public: Nemáme žiadne doporučené recenzie pre film %{title}.
     translations:
       add_biography:
       add_homepage:

@@ -3949,6 +3949,9 @@ sv-SE:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Vi har inte några presenterade recensioner för %{title}. Skulle du vilja <a href="%{url}">skriva en</a>?
+          public: Vi har inte några presenterade recensioner för %{title}.
     translations:
       add_biography:
       add_homepage:

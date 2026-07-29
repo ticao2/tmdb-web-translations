@@ -3995,6 +3995,9 @@ cs-CZ:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Nemáme žádné vybrané recenze pro %{title}. Nechtěli byste <a href="%{url}">nějakou napsat</a>?
+          public: Nemáme žádné vybrané recenze pro %{title}.
     translations:
       add_biography: Přidat životopis
       add_homepage: Přidat domovskou stránku

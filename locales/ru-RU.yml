@@ -4002,6 +4002,9 @@ ru-RU:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Рекомендуемых рецензий на %{title} нет. Не желаете ли Вы <a href="%{url}">написать одну</a>?
+          public: У нас нет рекомендуемых обзоров для %{title}.
     translations:
       add_biography:
       add_homepage:

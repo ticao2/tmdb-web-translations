@@ -3970,6 +3970,9 @@ hr-HR:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Nema istaknutih recenzija za %{title}. Želite li <a href="%{url}">napisati jednu</a>?
+          public: Nema istaknutih recenzija za %{title}.
     translations:
       add_biography:
       add_homepage:

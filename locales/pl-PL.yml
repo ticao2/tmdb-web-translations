@@ -3976,6 +3976,9 @@ pl-PL:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Nie mamy żadnej polecanej recenzji %{title}. Chcesz <a href="%{url}">dodać recenzję</a>?
+          public: Nie mamy żadnych polecanych recenzji %{title}.
     translations:
       add_biography:
       add_homepage:

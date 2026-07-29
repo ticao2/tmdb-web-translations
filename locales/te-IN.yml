@@ -3937,6 +3937,9 @@ te-IN:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in:
+          public:
     translations:
       add_biography:
       add_homepage:

@@ -3985,6 +3985,9 @@ sr-RS:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Немамо никаквих истакнутих рецензија за %{title}. Желиш ли да <a href="%{url}">напишеш једну</a>?
+          public: Немамо никаквих истакнутих рецензија за %{title}.
     translations:
       add_biography: Додај биографију
       add_homepage:

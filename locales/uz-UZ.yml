@@ -3854,6 +3854,9 @@ uz-UZ:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Bizda %{title} uchun hech qanday tanlangan taqriz yoʻq. a href="%{url}">Taqriz yozishni</a> xohlaysizmi?
+          public: Bizda %{title} uchun hech qanday tanlangan taqriz yoʻq.
     translations:
       add_biography:
       add_homepage:

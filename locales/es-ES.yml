@@ -4005,6 +4005,9 @@ es-ES:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: No tenemos reseñas destacadas de %{title}. ¿Quieres <a href="%{url}">escribir una</a>?
+          public: No tenemos reseñas destacadas de %{title}.
     translations:
       add_biography: Añadir biografía
       add_homepage: Añadir página de inicio

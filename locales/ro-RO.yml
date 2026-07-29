@@ -4043,6 +4043,9 @@ ro-RO:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Nu avem nicio recenzie evidențiată pentru %{title}. Doriți să <a href="%{url}">scrieți una</a>?
+          public: Nu avem nicio recenzie evidențiată pentru %{title}.
     translations:
       add_biography: Adaugă biografie
       add_homepage: Adaugă pagină de acasă

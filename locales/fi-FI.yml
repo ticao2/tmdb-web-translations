@@ -3964,6 +3964,9 @@ fi-FI:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Meillä ei ole yhtään suositeltua arvostelua nimikkeelle %{title}. Haluatko <a href="%{url}">kirjoittaa uuden</a>?
+          public: Meillä ei ole yhtään suositeltua arvostelua nimikkeelle %{title}.
     translations:
       add_biography: Lisää elämänkerta
       add_homepage: Lisää kotisivu

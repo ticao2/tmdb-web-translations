@@ -3954,6 +3954,9 @@ sl-SI:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in:
+          public:
     translations:
       add_biography: Dodaj biografijo
       add_homepage: Dodaj domačo stran

@@ -3966,6 +3966,9 @@ fa-IR:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: ‫ما هیچ نقد برجسته‌ای برای %{title} نداریم. آیا می‌خواهید <a href="%{url}">یکی بنویسید</a>؟
+          public: ما هیچ نقد برجسته‌ای برای %{title} نداریم.
     translations:
       add_biography: افزودن زندگینامه
       add_homepage: افزودن صفحه اصلی

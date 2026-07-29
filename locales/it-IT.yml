@@ -3954,6 +3954,9 @@ it-IT:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Non abbiamo recensioni in primo piano per %{title}. Ti piacerebbe <a href="%{url}">scriverne una</a>?
+          public: Non abbiamo recensioni in primo piano per %{title}.
     translations:
       add_biography:
       add_homepage:

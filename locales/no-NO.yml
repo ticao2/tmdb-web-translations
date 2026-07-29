@@ -3920,6 +3920,9 @@ no-NO:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Vi har ingen utvalgte anmeldelser for %{title}. Vil du <a href="%{url}">skrive en</a>?
+          public: Vi har ingen utvalgte anmeldelser for %{title}.
     translations:
       add_biography:
       add_homepage:

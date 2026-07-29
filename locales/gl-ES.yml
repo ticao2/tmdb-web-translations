@@ -3955,6 +3955,9 @@ gl-ES:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Non temos crítica destacada algunha para %{title}. Queres <a href="%{url}">escribir unha</a>?
+          public: Non temos crítica destacada algunha para %{title}.
     translations:
       add_biography: Engade unha biografía
       add_homepage:

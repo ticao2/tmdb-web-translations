@@ -3985,6 +3985,9 @@ lv-LV:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Mums nav nevienas izceltas atsauksmes par %{title}. Vai vēlies <a href="%{url}">uzrakstīt kādu</a>?
+          public: Mums nav nevienas izceltas atsauksmes par %{title}.
     translations:
       add_biography: Pievienot biogrāfiju
       add_homepage: Pievienot sākumlapu

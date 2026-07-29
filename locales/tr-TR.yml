@@ -3954,6 +3954,9 @@ tr-TR:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: '%{title} için henüz öne çıkan bir yoruma sahip değiliz. <a href="%{url}"> Bir tane yazmak</a> ister misiniz?'
+          public: "%{title} için hiç öne çıkan eleştiri yok. "
     translations:
       add_biography: Biyografi ekle
       add_homepage: Ana sayfa ekle

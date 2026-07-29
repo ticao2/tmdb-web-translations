@@ -3961,6 +3961,9 @@ he-IL:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: אין לנו ביקורות בולטות כלשהן עבור %{title}. האם אתה רוצה <a href="%{url}">לכתוב אחת</a>?
+          public: אין לנו ביקורות בולטות כלשהן עבור %{title}
     translations:
       add_biography: הוסף ביוגרפיה
       add_homepage: הוסף דף בית

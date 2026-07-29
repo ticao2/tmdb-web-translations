@@ -4003,6 +4003,9 @@ ca-AD:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: No tenim cap ressenya destacada de %{title}. En voleu <a href="%{url}">escriure una</a>?
+          public: No hi ha cap ressenya destacada per a %{title}.
     translations:
       add_biography: Afegiu la biografia
       add_homepage: Afegiu la pàgina web

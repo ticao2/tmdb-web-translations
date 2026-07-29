@@ -3924,6 +3924,9 @@ fr-CA:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Nous avons aucune critique en vedette pour %{title}. Voulez-vous en <a href="%{url}">écrire une</a>?
+          public: Nous n'avons pas encore de critiques en vedette pour %{title}.
     translations:
       add_biography: Ajouter une biographie.
       add_homepage:

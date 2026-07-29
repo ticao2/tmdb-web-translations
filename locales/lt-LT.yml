@@ -4079,6 +4079,9 @@ lt-LT:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Neturime jokių išskirtinių %{title} recenzijų. Gal nori <a href="%{url}">parašyti savo</a>?
+          public: Neturime jokių išskirtinių %{title} recenzijų.
     translations:
       add_biography: Pridėti biografiją
       add_homepage: Pridėti pagrindinį puslapį

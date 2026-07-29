@@ -3930,6 +3930,9 @@ zh-HK:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: 目前沒有關於%{title}的推薦評論，您有興趣<a href="%{url}">寫一個評論</a>嗎?
+          public: 目前沒有關於%{title}的推薦評論
     translations:
       add_biography:
       add_homepage:

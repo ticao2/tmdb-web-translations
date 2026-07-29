@@ -4057,6 +4057,9 @@ uk-UA:
         their_rating:
         your_rating:
         edit_review:
+        no_featured_review:
+          logged_in: Поки що немає видатних рецензій на «%{title}». Бажаєте <a href="%{url}">написати</a>?
+          public: Поки що немає видатних рецензій на «%{title}».
     translations:
       add_biography: Додати біографію
       add_homepage: Додати домашню сторінку
