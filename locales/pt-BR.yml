@@ -48,30 +48,30 @@ pt-BR:
   Add a New Cast Member: Adicionar novo membro ao Elenco
   Add a New Crew Member: Adicionar novo membro à Equipe
   Add a New Guest Star: Adicionar um novo Artista Convidado
-  Add to Watchlist: Adicionar à sua lista de interesses
+  Add to Watchlist: Adicionar à sua Lista de Interesses
   Add to list: Adicionar a uma lista
-  Add to your favorite list: Adicionar aos seus favoritos
-  Add to your watchlist: Adicionar à sua lista de interesses
+  Add to your favorite list: Adicionar aos seus Favoritos
+  Add to your watchlist: Adicionar à sua Lista de Interesses
   Added By: Adicionado por
-  Added to Watchlist: Adicionado à lista de interesses
+  Added to Watchlist: Adicionado à Lista de Interesses
   Adding & Editing Content: Adicionando e Editando Conteúdo
   Address 1: Endereço 1
   Address 2: Endereço 2
-  Admin Tools: Ferramentas de administração
+  Admin Tools: Ferramentas de Administração
   Adult Actor: Ator de Filmes Adultos
-  Advanced Search: Busca avançada
-  Air Date: Data de exibição
+  Advanced Search: Busca Avançada
+  Air Date: Data de Exibição
   Also Known As: Também conhecido(a) como
-  Alternative Names: Nomes alternativos
-  Alternative Titles: Títulos alternativos
+  Alternative Names: Nomes Alternativos
+  Alternative Titles: Títulos Alternativos
   Apiary Documentation: Documentação da API
   App Directory: Diretório do Aplicativo
-  App Showcase: Mostruário de apps
+  App Showcase: Mostruário de Apps
   Appearances: Aparições
   Application Description: Descrição do Aplicativo
-  Application Name: Nome do aplicativo
-  Application Summary: Sobre o aplicativo
-  Application URL: URL do aplicativo
+  Application Name: Nome do Aplicativo
+  Application Summary: Sobre o Aplicativo
+  Application URL: URL do Aplicativo
   Approve: Aprovar
   Approved?: Aprovado?
   Apps: Apps
@@ -86,7 +86,7 @@ pt-BR:
   Best Match: Melhor resultado
   Biography: Biografia
   Birthday: Nascimento
-  Blocked Users: Usuários bloqueados
+  Blocked Users: Usuários Bloqueados
   Blog: Blog
   Branding: Marca
   Budget: Orçamento
@@ -98,8 +98,8 @@ pt-BR:
   Characters: Personagens
   Choose: Escolher
   City: Cidade
-  Collection Results: Resultados para coletâneas
-  Collections: Coletâneas
+  Collection Results: Resultados para Coleção
+  Collections: Coleção
   Coming soon!: Em breve!
   Comments: Comentários
   Community: Comunidade
@@ -115,7 +115,7 @@ pt-BR:
   Content Score: Avaliação do conteúdo
   Continue: Continuar
   Contribution leaders for the week of: Principais colaboradores da semana de
-  Convert to Collection?: Converter para coletânea?
+  Convert to Collection?: Converter para Coleção?
   Convert to Movie?: Converter para filme?
   Country: País
   Create: Criar
@@ -463,7 +463,7 @@ pt-BR:
   Top Rated TV Shows: Séries mais bem avaliadas
   Top Users: Usuários em destaque
   Translate Award: Traduzir Premiação
-  Translate Collection: Traduzir coletânea
+  Translate Collection: Traduzir Coleção
   Translate Movie: Traduzir Filme
   Translate Person: Traduzir pessoa
   Translate TV Series: Traduzir Série
@@ -497,7 +497,7 @@ pt-BR:
   View More: Mostrar mais
   View Original: Ver original
   View Profile Images: Mostrar todas as fotos
-  View the Collection: Mostrar a coletânea
+  View the Collection: Mostrar a Coleção
   Watch Online: Assistir online
   Watchlist: Lista de interesses
   Watchlists: Listas de interesses
@@ -1702,10 +1702,10 @@ pt-BR:
       people: pes
       tv: sre
     collection:
-      collection: Coletâneas
+      collection: Coleção
       collection_bible: Bíblia da Coleção
       tall_bible:
-        bottom: Coletâneas
+        bottom: Coleções
         top: Coleção
     contribution_bible: Bíblia do Colaborador
     featured_articles: Artigos em Destaque
@@ -3837,9 +3837,9 @@ pt-BR:
           no_records: Nenhum membro do elenco foi adicionado.
           person_required: É necessário uma pessoa.
         confirm_collection: |-
-          <p>As coletâneas são uma maneira conveniente de agrupar continuações no TMDB. Embora às vezes sejam controversas, as coletâneas não devem ser usadas como uma forma de agrupar filmes do mesmo "universo cinematográfico". Para isso, por favor, <a href="%{list_link}" target="_blank" rel="noopener">crie uma lista</a>. Para mais informações sobre as coletâneas, você pode visitar <a href="%{docs_link}" target="_blank" rel="noopener">nossa documentação</a>.</p>
+          <p>As Coleções são uma maneira conveniente de agrupar continuações no TMDB. Embora às vezes sejam controversas, as Coleção não devem ser usadas como uma forma de agrupar filmes do mesmo "universo cinematográfico". Para isso, por favor, <a href="%{list_link}" target="_blank" rel="noopener">crie uma lista</a>. Para mais informações sobre as Coleções, você pode visitar <a href="%{docs_link}" target="_blank" rel="noopener">nossa documentação</a>.</p>
 
-          <p>Se a coletânea que você está prestes a criar atende este critério, por favor, continue.</p>
+          <p>Se a Coleção que você está prestes a criar atende este critério, por favor, continue.</p>
         confirm_video: |-
           <p>Marcar um filme como um vídeo nos ajuda a diferenciar os tipos de conteúdo que não são realmente filmes.</p>
 
@@ -4256,7 +4256,7 @@ pt-BR:
     more: Mais
   no_biography: Não temos uma biografia para %{name}.
   no_cast: Não temos uma lista do elenco deste(a) %{media_type}. Você pode ajudar criando uma!
-  no_collection_search_results: Não foram encontradas coletâneas que correspondam aos seus critérios de busca.
+  no_collection_search_results: Não foram encontradas Coleções que correspondam aos seus critérios de busca.
   no_company_search_results: Não foram encontradas produtoras que correspondam aos seus critérios de busca.
   no_contributors: Nenhum colaborador encontrado.
   no_created_lists: Você ainda não criou nenhuma lista.
